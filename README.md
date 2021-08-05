@@ -1,7 +1,7 @@
 ACSO-IOMMU Kernel Patch making
 
 
-This is entirely for makinh patchfiles for the acso-krnl-utils
+This is entirely for making patchfiles for the acso-krnl-utils
 or anyone whou wants acso patch files
 
 It works pretty wll for me but there is a big CAVEAT
