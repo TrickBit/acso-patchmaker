@@ -31,8 +31,9 @@ the range of kernels they apply to
 What goes on in here is basically:
 
 download kernel source - put it in (see the source) 
-  tarballs_dir=~/dev/acso-iommu/patching/KernelSource  <--- change these to suit your environment
-  patch_dir=~/dev/acso-iommu/patching/PatchFiles       <--- 
+
+  tarballs_dir="~/dev/acso-iommu/patching/KernelSource"  <--- change these to suit your environment
+  patch_dir="~/dev/acso-iommu/patching/PatchFiles"       <--- 
 
 
 run the script and you'll end upt with a patchfile THAT YOU SHOULD REVIEW BEFORE APPLYING 
